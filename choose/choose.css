@@ -1,0 +1,7 @@
+.choose{
+    background-color: #FFFAF0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

@@ -1,0 +1,6 @@
+.producto{
+    display: flex;
+    background-color: #FFFAF0;
+    flex-direction: row;
+    justify-content: space-between;
+}
